@@ -63,6 +63,7 @@ Each coloured ball bounces and responds to interaction — physics-driven, no li
 | 💡 Inspired by | [Google Balls Doodle](http://rawkes.com/lab/google-balls-logo) |
 | 🔧 Built with | Vanilla JavaScript, DOM physics |
 | 📅 Year | 2012 |
+| 🎬 Demo | ![Jumping Balls demo](./indra_jumping_balls.gif) |
 
 ---
 
