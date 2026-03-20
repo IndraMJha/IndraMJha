@@ -57,11 +57,21 @@ Full-stack developer who enjoys building things that work well on both ends — 
 Each coloured ball bounces and responds to interaction — physics-driven, no libraries, just raw JS.  
 🔗 **[Try it live →](https://indramjha.blogspot.com/2012/05/jumping-balls.html)**
 
-| | | |
-|---|---|---|
-| 💡 Inspired by | [Google Balls Doodle](http://rawkes.com/lab/google-balls-logo) | <img src="./indra_jumping_balls.gif" width="200"/> |
-| 🔧 Built with | Vanilla JavaScript, DOM physics | 
-| 📅 Year | 2012 | 
+<table>
+  <tr>
+    <td>💡 Inspired by</td>
+    <td><a href="http://rawkes.com/lab/google-balls-logo">Google Balls Doodle</a></td>
+    <td rowspan="3"><img src="./jumping-balls.gif" width="200"/></td>
+  </tr>
+  <tr>
+    <td>🔧 Built with</td>
+    <td>Vanilla JavaScript, DOM physics</td>
+  </tr>
+  <tr>
+    <td>📅 Year</td>
+    <td>2012</td>
+  </tr>
+</table>
 
 ---
 
