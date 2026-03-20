@@ -20,7 +20,6 @@ Full-stack developer who enjoys building things that work well on both ends — 
 
 - 🐍 I build web apps and REST APIs with **Django & Python**
 - 📱 I craft native **Android** apps in **Kotlin & Java**
-- 🎱 Back in 2012, I remixed Google's bouncing ball doodle into my own [**Jumping Balls**](https://indramjha.blogspot.com/2012/05/jumping-balls.html) animation
 - 📍 Based in **Bihar, India**
 
 ---
@@ -60,7 +59,7 @@ Each coloured ball bounces and responds to interaction — physics-driven, no li
 
 | | | |
 |---|---|---|
-| 💡 Inspired by | [Google Balls Doodle](http://rawkes.com/lab/google-balls-logo) | <img src="./jumping-balls.gif" width="200"/> |
+| 💡 Inspired by | [Google Balls Doodle](http://rawkes.com/lab/google-balls-logo) | <img src="./indra_jumping_balls.gif" width="200"/> |
 | 🔧 Built with | Vanilla JavaScript, DOM physics | |
 | 📅 Year | 2012 | |
 
